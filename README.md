@@ -96,3 +96,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+----------------------------------------------
+
+Pattern: Repository
+
+Application
+  Maneja la exteriorización del sistema. Conecta la capa web con el back, es la capa de contacto con el usuario.
+
+Domain
+  Define las reglas del negocio, entidades y abstracciones.
+
+Infraestructure
+  Implementa detalles técnicos como DB, sercvicios externos, etc.
+
+Config
+  Centralizar configuraciones comunes como variables de entorno.
+

@@ -1,0 +1,28 @@
+{
+    "database" : [
+        {
+            "entidad" : "equipos",
+            "rows" : [] 
+        },
+        {
+            "entidad" : "nomenclaturas",
+            "rows" : [] 
+        },
+        {
+            "entidad" : "proveedores",
+            "rows" : [] 
+        },
+        {
+            "entidad" : "proyectos",
+            "rows" : [] 
+        },
+        {
+            "entidad" : "sucursales",
+            "rows" : [] 
+        },
+        {
+            "entidad" : "usuarios",
+            "rows" : [] 
+        }
+    ]
+}

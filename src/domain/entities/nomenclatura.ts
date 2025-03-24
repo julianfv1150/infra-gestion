@@ -1,0 +1,1 @@
+export const Nomenclatura : string [] = ['W-NL-', 'W-NG-', 'L-NL-', 'S-NL-'];
